@@ -1,4 +1,4 @@
-### Hi I'm Nicolay! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+### Hi I'm Nicolay! 👋
 
 * I'm a PhD student at Bauman Moscow State Technical University (BMSTU) -- *Moscow/Russia*
 * Focusing on  Relation Extraction framework `AREkit` for news articles processing 📰
