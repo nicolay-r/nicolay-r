@@ -1,8 +1,8 @@
 ### Hi I'm Nicolay! 👋
 
-* I'm a PhD student at Bauman Moscow State Technical University (BMSTU) -- *Moscow/Russia*
+* I'm a PhD candidate at Bauman Moscow State Technical University (BMSTU)
 * Focusing on  Relation Extraction framework `AREkit` for news articles processing 📰
-* Combine it with track-and-field 🏃‍♂️ and 🌊🏄‍♂️
+* Combine it with track-and-field 🏃‍♂️, ⛷️ and 🌊🏄‍♂️
 
 #### 📫 How to reach me
 
