@@ -1,6 +1,6 @@
 ### Hi I'm Nicolay! 👋
 
-* I'm a PhD candidate at Bauman Moscow State Technical University (BMSTU)
+* PhD in Natural Language Processing, Sentiment Analysis and Relation Extraction
 * Focusing on  Relation Extraction framework `AREkit` for news articles processing 📰
 * Combine it with track-and-field 🏃‍♂️, ⛷️ and 🌊🏄‍♂️
 
