@@ -1,7 +1,6 @@
 ### Hi I'm Nicolay! 👋
 
-* PhD in Natural Language Processing, Sentiment Analysis and Relation Extraction
-* Focusing on  Relation Extraction framework `AREkit` for news articles processing 📰
+* My [personal website](https://nicolay-r.github.io/) at github for more information about me
 * Combine it with track-and-field 🏃‍♂️, ⛷️ and 🌊🏄‍♂️
 
 #### 📫 How to reach me
