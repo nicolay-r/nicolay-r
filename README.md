@@ -17,6 +17,9 @@
 * **13/02/2024:** Joining the reviewer PC @ [TextGraphs-17](https://sites.google.com/view/textgraphs2024) as a part of [ACL-2024](https://2024.aclweb.org/) ✍️
 * **23/01/2024:** Joining the reviewer PC @ [AINL-2024](https://ainlconf.ru/) ✍️
 * **19/01/2024:** Joining distingushed reviewers @ [ACM TiiS](https://dl.acm.org/journal/tiis) 🥳✍️
+* **19/03/2023:** Our systems [#1](https://aclanthology.org/2023.semeval-1.36/) and [#2](https://aclanthology.org/2023.semeval-1.178.pdf) accepted @ [SemEval-2023](https://semeval.github.io/SemEval2023/) 🥳
+* **11/03/2022:** Giving a [seminar](https://nicolay-r.github.io/website/data/lecture_newcastle_11-03-2023.pdf) @ [Newcastle University](https://www.ncl.ac.uk/) in the UK 🎤
+* **10/02/2023:** Giving a [seminar](https://www.wolfson.ox.ac.uk/event/xml-research-seminar-advances-sentiment-analysis-large-mass-media-documents) @ [Oxford Wolfson College](https://www.wolfson.ox.ac.uk/) in the UK 🎤
 * **04/12/2022:** *Research Fellow* in NLP / IR @ [Newcastle University](https://www.ncl.ac.uk/) in the UK 💼
 
 </details>
