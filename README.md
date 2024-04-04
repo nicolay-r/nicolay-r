@@ -2,11 +2,6 @@
 
 * My [personal website](https://nicolay-r.github.io/) at github for more information about me
 * Combine it with track-and-field 🏃‍♂️, ⛷️ and 🌊🏄‍♂️
-
-### News
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolay-rusnachenko-b98635193/)](https://www.linkedin.com/in/nicolay-rusnachenko-b98635193/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-4c4cff?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/nicolayr_)](https://twitter.com/nicolayr_)
-[![Tech Blog Badge](https://img.shields.io/badge/-technical%20blog-gray?style=flat-square&logo=jekyll&link=https://nicolay-r.github.io/blog/)](https://nicolay-r.github.io/blog/)
 <details>
 <summary>
 
