@@ -7,6 +7,7 @@
 
 ### The most recent
 * **07/05/2024:** Joining the reviewer PC @ [CIKM-2024](https://cikm2024.org/) ✍️
+* **07/05/2024:** Joining the reviewer PC @ [LOD-2024](https://lod2024.icas.events/) ✍️
 * **28/04/2024:** Taking part of the [i3-simulations](https://www.eventbrite.co.uk/e/techfusion-summit-i3-simulations-tickets-872633679827) @ Luten / UK on **9-10th May 2024** for MMI-NLP 🇬🇧 
 * **19/04/2024:** Our findings on LLMs reasoning prospects in Sentiment Analysis pre-printed @ [ArXiv](https://arxiv.org/abs/2305.17679) 🥳
 * **05/04/2024:** Our [findings on LLMs reasoning prospects in Sentiment Analysis](https://github.com/nicolay-r/Reasoning-for-Sentiment-Analysis-Framework) were accepted @ [LJoM](https://link.springer.com/journal/12202) 🥳
