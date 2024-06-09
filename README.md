@@ -6,7 +6,7 @@
 <summary>
 
 ### The most recent
-* **08/06/2024:** Paper on [fictional-characters personalities extraction 📚](https://github.com/nicolay-r/deep-book-processing) has been **accepted** for [LOD-2024](https://lod2024.icas.events/) / Toscana, Italy 🇮🇹 🥳
+* **08/06/2024:** Paper on [charters personalities extraction 📚](https://github.com/nicolay-r/deep-book-processing) has been **accepted** for [LOD-2024](https://lod2024.icas.events/) / Toscana, Italy 🇮🇹 🥳
 * **31/05/2024:** Presenting 📊 [LLM application findings in SA](https://github.com/nicolay-r/RuSentNE-LLM-Benchmark) @ [DataFest-2024](
 https://ods.ai/events/df2024-31-may-online) [online/youtube](https://www.youtube.com/watch?v=dPc7GwIKJK0) 
 * **09/05/2024:** Taking part of the [i3-simulations](https://www.eventbrite.co.uk/e/techfusion-summit-i3-simulations-tickets-872633679827) @ Luten / UK on **9-10th May 2024** for MMI-NLP 🇬🇧 
