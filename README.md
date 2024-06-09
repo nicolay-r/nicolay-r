@@ -6,15 +6,15 @@
 <summary>
 
 ### The most recent
+* **08/06/2024:** Paper on [fictional-characters personalities extraction 📚](https://github.com/nicolay-r/deep-book-processing) has been **accepted** for [LOD-2024](https://lod2024.icas.events/) / Toscana, Italy 🇮🇹 🥳
 * **31/05/2024:** Presenting 📊 [LLM application findings in SA](https://github.com/nicolay-r/RuSentNE-LLM-Benchmark) @ [DataFest-2024](
 https://ods.ai/events/df2024-31-may-online) [online/youtube](https://www.youtube.com/watch?v=dPc7GwIKJK0) 
 * **09/05/2024:** Taking part of the [i3-simulations](https://www.eventbrite.co.uk/e/techfusion-summit-i3-simulations-tickets-872633679827) @ Luten / UK on **9-10th May 2024** for MMI-NLP 🇬🇧 
 * **07/05/2024:** Joining the reviewer PC @ [CIKM-2024](https://cikm2024.org/) ✍️
 * **06/05/2024:** Joining the reviewer PC @ [LOD-2024](https://lod2024.icas.events/) ✍️
-* **19/04/2024:** Our findings on LLMs reasoning prospects in Sentiment Analysis pre-printed @ [ArXiv](https://arxiv.org/abs/2305.17679) 🥳
-
 </summary>
 
+* **19/04/2024:** Our findings on LLMs reasoning prospects in Sentiment Analysis pre-printed @ [ArXiv](https://arxiv.org/abs/2305.17679) 🥳
 * **05/04/2024:** Our [findings on LLMs reasoning prospects in Sentiment Analysis](https://github.com/nicolay-r/Reasoning-for-Sentiment-Analysis-Framework) were accepted @ [LJoM](https://link.springer.com/journal/12202) 🥳
 * **25/03/2024:** Presenting our [ARElight demo](https://github.com/nicolay-r/ARElight/tree/v0.24.0) @ [ECIR-2024](https://www.ecir2024.org/accepted-paper/) 🥳
 * **19/03/2024:** Our CoT LLM systems [#1](https://github.com/nicolay-r/THOR-ECAC) and [#2](https://github.com/GavinZhao19/SemEval24-NumAnalysis-CN) accepted @ [SemEval-2024](https://semeval.github.io/SemEval2024/) 🥳
