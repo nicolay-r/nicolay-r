@@ -6,13 +6,15 @@
 <summary>
 
 ### The most recent
+* **29/08/2024:** 📊 Initializing [RuOpinionNE-2024](https://github.com/dialogue-evaluation/RuOpinionNE-2024) competion page by joining [@dialogue-evaluation](https://github.com/dialogue-evaluation).
 * **02/08/2024:** Joining the reviewer PC @ [AIST-2024](https://aistconf.org/) ✍️
 * **24/07/2024:** Presenting [LLM reasoning advances 🧠 in author-related IR / Sentiment Analysis](https://github.com/nicolay-r/RuSentNE-LLM-Benchmark) @ [NLPSummit-2024](https://www.nlpsummit.org/nlp-summit-2024/)
 * **02/07/2024:** Our [CombinedLoss-based](https://github.com/hyy-33/hyy33-WASSA-2024-Track-2) and [Role-play + Contrasting Reasoning](https://huggingface.co/collections/RicardoLee/chinchunmei-on-wassa2024-shared-task-1-66853bab4fd43e12c535efa8) studies on Empathy/Emotion prediction were accepted @ [WASSA-2024](https://workshop-wassa.github.io/) hosted by [ACL-2024](https://2024.aclweb.org/) 🇹🇭🥳
 * **21/06/2024:** Our CoT [THOR-ECAC](https://aclanthology.org/2024.semeval-1.4/) and [CoT-NumHG-Mistral-7B](https://aclanthology.org/2024.semeval-1.40/) systems were presented @ [SemEval-2024](https://semeval.github.io/SemEval2024/) 🇲🇽 🥳
-* **08/06/2024:** Paper on [charters personalities extraction 📚](https://github.com/nicolay-r/deep-book-processing) has been **accepted** for [LOD-2024](https://lod2024.icas.events/) @ Toscana, Italy 🇮🇹 🥳
+
 </summary>
 
+* **08/06/2024:** Paper on [charters personalities extraction 📚](https://github.com/nicolay-r/deep-book-processing) has been **accepted** for [LOD-2024](https://lod2024.icas.events/) @ Toscana, Italy 🇮🇹 🥳
 * **31/05/2024:** Presenting 📊 [LLM application findings in SA](https://github.com/nicolay-r/RuSentNE-LLM-Benchmark) @ [DataFest-2024](
 https://ods.ai/events/df2024-31-may-online) [online/youtube](https://www.youtube.com/watch?v=dPc7GwIKJK0) 
 * **09/05/2024:** Taking part of the [i3-simulations](https://www.eventbrite.co.uk/e/techfusion-summit-i3-simulations-tickets-872633679827) @ Luten / UK on **9-10th May 2024** for MMI-NLP 🇬🇧 
