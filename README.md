@@ -5,7 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolay-rusnachenko-b98635193/)](https://www.linkedin.com/in/nicolay-rusnachenko-b98635193/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-4c4cff?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/nicolayr_)](https://twitter.com/nicolayr_)
-[![Youtube badge](https://img.shields.io/badge/-Youtube-Cc4c4c?style=flat-square&logo=Youtube&logoColor=white&link=https://twitter.com/nicolayr_)](https://www.youtube.com/@nicolay-r)
+[![Youtube badge](https://img.shields.io/badge/-Youtube-Cc4c4c?style=flat-square&logo=Youtube&logoColor=white&link=https://twitter.com/nicolayr_)](https://www.youtube.com/@nicolay-r/videos)
 
 <details>
 <summary>
