@@ -11,6 +11,7 @@
 <summary>
 
 ### The most recent
+* **16/09/2024:** 🛠️ Back to [Quick-CoT framework](https://github.com/nicolay-r/quick_cot) for stable LLMs inference over databases.
 * **29/08/2024:** 📊 Initializing [RuOpinionNE-2024](https://github.com/dialogue-evaluation/RuOpinionNE-2024) competion page by joining [@dialogue-evaluation](https://github.com/dialogue-evaluation).
 * **02/08/2024:** Joining the reviewer PC @ [AIST-2024](https://aistconf.org/) ✍️
 * **24/07/2024:** Presenting [LLM reasoning advances 🧠 in author-related IR / Sentiment Analysis](https://github.com/nicolay-r/RuSentNE-LLM-Benchmark) @ [NLPSummit-2024](https://www.nlpsummit.org/nlp-summit-2024/)
