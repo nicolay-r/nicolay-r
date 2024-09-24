@@ -11,7 +11,7 @@
 <summary>
 
 ### The most recent
-* **16/09/2024:** 🛠️ Back to [Quick-CoT framework](https://github.com/nicolay-r/quick_cot) for stable LLMs inference over databases.
+* **16/09/2024:** 🛠️ Back to [fast-CoT framework](https://github.com/nicolay-r/fast-cot) for stable LLMs inference over databases.
 * **09/09/2024:** 📹 Releasing [YouTube video](https://www.youtube.com/watch?v=vRVDQa7vfkU) on CoT-based Emotion Extraction with LLM, based on [THOR-ECAC](https://aclanthology.org/2024.semeval-1.4/) framework
 * **29/08/2024:** 📊 Initializing [RuOpinionNE-2024](https://github.com/dialogue-evaluation/RuOpinionNE-2024) competion page by joining [@dialogue-evaluation](https://github.com/dialogue-evaluation).
 * **02/08/2024:** Joining the reviewer PC @ [AIST-2024](https://aistconf.org/) ✍️
