@@ -11,14 +11,16 @@
 <summary>
 
 ### The most recent
+
+* **16/10/2024:** 💼 Joining the *Senior Program Commitee* for [ACM-IUI-2025](https://iui.acm.org/2025/) as **Associate Chair (AC)** ✍️
 * **28/09/2024:** 📹 Releasing [YouTube video](https://youtu.be/UQQsXfZyjjc) on [charters personalities extraction 📚](https://github.com/nicolay-r/deep-book-processing) framework.
 * **27/09/2024:** 🛠️ Back to 🌟[bulk-ner framework](https://github.com/nicolay-r/bulk-ner) for developing no-strings core with third NER models.
 * **16/09/2024:** 🛠️ Back to 🌟[bulk-chain framework](https://github.com/nicolay-r/bulk-chain) for stable LLMs inference over databases.
 * **09/09/2024:** 📹 Releasing [YouTube video](https://www.youtube.com/watch?v=vRVDQa7vfkU) on CoT-based Emotion Extraction with LLM, based on [THOR-ECAC](https://aclanthology.org/2024.semeval-1.4/) framework.
-* **29/08/2024:** 📊 Initializing [RuOpinionNE-2024](https://github.com/dialogue-evaluation/RuOpinionNE-2024) competion page by joining [@dialogue-evaluation](https://github.com/dialogue-evaluation).
 
 </summary>
 
+* **29/08/2024:** 📊 Initializing [RuOpinionNE-2024](https://github.com/dialogue-evaluation/RuOpinionNE-2024) competion page by joining [@dialogue-evaluation](https://github.com/dialogue-evaluation).
 * **02/08/2024:** Joining the reviewer PC @ [AIST-2024](https://aistconf.org/) ✍️
 * **24/07/2024:** Presenting [LLM reasoning advances 🧠 in author-related IR / Sentiment Analysis](https://github.com/nicolay-r/RuSentNE-LLM-Benchmark) @ [NLPSummit-2024](https://www.nlpsummit.org/nlp-summit-2024/)
 * **02/07/2024:** Our [CombinedLoss-based](https://github.com/hyy-33/hyy33-WASSA-2024-Track-2) and [Role-play + Contrasting Reasoning](https://huggingface.co/collections/RicardoLee/chinchunmei-on-wassa2024-shared-task-1-66853bab4fd43e12c535efa8) studies on Empathy/Emotion prediction were accepted @ [WASSA-2024](https://workshop-wassa.github.io/) hosted by [ACL-2024](https://2024.aclweb.org/) 🇹🇭🥳
