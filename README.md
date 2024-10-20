@@ -11,7 +11,8 @@
 <summary>
 
 ### The most recent
-
+* **29/11/2024:** 🎤 Seminar talk on Implicit IR with GenAI @ [Newcastle University](https://www.ncl.ac.uk/) 🇬🇧
+* **08/11/2024:** 🎤 Seminar talk on Implicit IR with GenAI @ [Bournemouth University](https://www.bournemouth.ac.uk/) 🇬🇧
 * **16/10/2024:** 💼 Joining the *Senior Program Commitee* for [ACM-IUI-2025](https://iui.acm.org/2025/) as **Associate Chair (AC)** ✍️
 * **28/09/2024:** 📹 Releasing [YouTube video](https://youtu.be/UQQsXfZyjjc) on [charters personalities extraction 📚](https://github.com/nicolay-r/deep-book-processing) framework.
 * **27/09/2024:** 🛠️ Back to 🌟[bulk-ner framework](https://github.com/nicolay-r/bulk-ner) for developing no-strings core with third NER models.
