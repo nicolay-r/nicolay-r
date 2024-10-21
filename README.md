@@ -12,14 +12,14 @@
 
 ### The most recent
 * **29/11/2024:** 🎤 Seminar talk on Implicit IR with GenAI @ [Newcastle University](https://www.ncl.ac.uk/) 🇬🇧
-* **15/11/2024:** 🎤 Attending [NKIFusion](https://www.nkifusion.co.uk/event/) @ Hilton Hotel, BH2 5EL, Bournemouth 🇬🇧
+* **15/11/2024:** 💼 Attending [NKIFusion](https://www.nkifusion.co.uk/event/) @ Hilton Hotel, BH2 5EL, Bournemouth 🇬🇧
 * **08/11/2024:** 🎤 Seminar talk on Implicit IR with GenAI @ [Bournemouth University](https://www.bournemouth.ac.uk/) 🇬🇧
 * **16/10/2024:** 💼 Joining the *Senior Program Commitee* for [ACM-IUI-2025](https://iui.acm.org/2025/) as **Associate Chair (AC)** ✍️
 * **28/09/2024:** 📹 Releasing [YouTube video](https://youtu.be/UQQsXfZyjjc) on [charters personalities extraction 📚](https://github.com/nicolay-r/deep-book-processing) framework.
-* **27/09/2024:** 🛠️ Back to 🌟[bulk-ner framework](https://github.com/nicolay-r/bulk-ner) for developing no-strings core with third NER models.
 
 </summary>
 
+* **27/09/2024:** 🛠️ Back to 🌟[bulk-ner framework](https://github.com/nicolay-r/bulk-ner) for developing no-strings core with third NER models.
 * **16/09/2024:** 🛠️ Back to 🌟[bulk-chain framework](https://github.com/nicolay-r/bulk-chain) for stable LLMs inference over databases.
 * **09/09/2024:** 📹 Releasing [YouTube video](https://www.youtube.com/watch?v=vRVDQa7vfkU) on CoT-based Emotion Extraction with LLM, based on [THOR-ECAC](https://aclanthology.org/2024.semeval-1.4/) framework.
 * **29/08/2024:** 📊 Initializing [RuOpinionNE-2024](https://github.com/dialogue-evaluation/RuOpinionNE-2024) competion page by joining [@dialogue-evaluation](https://github.com/dialogue-evaluation).
