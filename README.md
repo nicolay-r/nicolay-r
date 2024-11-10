@@ -11,14 +11,15 @@
 <summary>
 
 ### The most recent
+* **10/11/2024:** 🛠️ Back to 🌟[bulk-translate framework](https://github.com/nicolay-r/bulk-translate) for developing no-strings core for exploiting 3rd party translating API.
 * **29/11/2024:** 🎤 Seminar talk on Implicit IR with GenAI @ [Newcastle University](https://www.ncl.ac.uk/) 🇬🇧
 * **15/11/2024:** 💼 Attending [NKIFusion](https://www.nkifusion.co.uk/event/) @ Hilton Hotel, BH2 5EL, Bournemouth 🇬🇧
 * **30/10/2024:** 🎤 Speaker at [BFX-2024 Festival](https://www.bfxfestival.com/) @ Bourmemouth University, Talbot Campus, Bournemouth 🇬🇧 
 * **08/11/2024:** 🎤 Seminar talk on Implicit IR with GenAI @ [Bournemouth University](https://www.bournemouth.ac.uk/) 🇬🇧
-* **16/10/2024:** 💼 Joining the *Senior Program Commitee* for [ACM-IUI-2025](https://iui.acm.org/2025/) as **Associate Chair (AC)** ✍️
 
 </summary>
 
+* **16/10/2024:** 💼 Joining the *Senior Program Commitee* for [ACM-IUI-2025](https://iui.acm.org/2025/) as **Associate Chair (AC)** ✍️
 * **28/09/2024:** 📹 Releasing [YouTube video](https://youtu.be/UQQsXfZyjjc) on [charters personalities extraction 📚](https://github.com/nicolay-r/deep-book-processing) framework.
 * **27/09/2024:** 🛠️ Back to 🌟[bulk-ner framework](https://github.com/nicolay-r/bulk-ner) for developing no-strings core with third NER models.
 * **16/09/2024:** 🛠️ Back to 🌟[bulk-chain framework](https://github.com/nicolay-r/bulk-chain) for stable LLMs inference over databases.
