@@ -46,7 +46,7 @@ https://ods.ai/events/df2024-31-may-online) [online/youtube](https://www.youtube
 * **22/02/2024:** Giving a [seminar](https://samoa.dcs.gla.ac.uk/events/viewtalk.jsp?id=19265) @ [Glasgow IR](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/) 🎤
 * **13/02/2024:** Joining the reviewer PC @ [TextGraphs-17](https://sites.google.com/view/textgraphs2024) as a part of [ACL-2024](https://2024.aclweb.org/) ✍️
 * **23/01/2024:** Joining the reviewer PC @ [AINL-2024](https://ainlconf.ru/) ✍️
-* **19/01/2024:** Joining **distingushed reviewers** list @ [ACM TiiS](https://dl.acm.org/journal/tiis) 🥳✍️
+* **19/01/2024:** Joining [**distingushed reviewers** list](https://dl.acm.org/journal/tiis/editorial-board#distinguished-reviewers) @ [ACM TiiS](https://dl.acm.org/journal/tiis) 🥳✍️
 * **17/10/2023:** Joining the reviewer PC @ [CHIIR-2024](https://chiir2024.github.io/) ✍️
 * **19/03/2023:** Our systems [#1](https://aclanthology.org/2023.semeval-1.36/) and [#2](https://aclanthology.org/2023.semeval-1.178/) accepted @ [SemEval-2023](https://semeval.github.io/SemEval2023/) 🥳
 * **02/04/2023:** Joining the reviewer PC @ [CIKM-2023](https://uobevents.eventsair.com/cikm2023//) ✍️
