@@ -14,8 +14,8 @@
 
 ### The most recent
 
+* **15/01/2025:** 🎤 Joining to the speakers list @ [⚕️NLP Healthcare Summit 2025](https://www.nlpsummit.org/healthcare-2025/)
 * **13/01/2025:** Our ⚕️ dialogue summarization studies and 🌟[MEDF system](https://github.com/Xiaoxiao-Liu/distill-d2n.git) are @ [IEEE-BIBM 2024](https://www.computer.org/csdl/proceedings-article/bibm/2024/10822640/23oo4I9Ps8E) 
-* **06/01/2025:** 🎤 Submitting talk details @ [⚕️NLP Healthcare Summit 2025](https://www.nlpsummit.org/healthcare-2025/)
 * **17/12/2024:** ✍️ Accepted for reviewing emotion recognition studies at @ [ACM TiiS](https://dl.acm.org/journal/tiis)
 * **29/11/2024:** 🎤 Seminar talk on Implicit IR with GenAI @ [Newcastle University](https://www.ncl.ac.uk/) 🇬🇧
 * **15/11/2024:** 💼 Attending [NKIFusion](https://www.nkifusion.co.uk/event/) @ Hilton Hotel, BH2 5EL, Bournemouth 🇬🇧
