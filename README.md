@@ -14,14 +14,15 @@
 
 ### The most recent
 
+* **18/01/2025:** Releasing a hub for NLP providers @ ⭐[nlp-thirdgate](https://github.com/nicolay-r/nlp-thirdgate)
 * **15/01/2025:** 🎤 Joining to the speakers list @ [⚕️NLP Healthcare Summit 2025](https://www.nlpsummit.org/healthcare-2025/)
 * **13/01/2025:** Our ⚕️ dialogue summarization studies and 🌟[MEDF system](https://github.com/Xiaoxiao-Liu/distill-d2n.git) are @ [IEEE-BIBM 2024](https://www.computer.org/csdl/proceedings-article/bibm/2024/10822640/23oo4I9Ps8E) 
 * **17/12/2024:** ✍️ Accepted for reviewing emotion recognition studies at @ [ACM TiiS](https://dl.acm.org/journal/tiis)
 * **29/11/2024:** 🎤 Seminar talk on Implicit IR with GenAI @ [Newcastle University](https://www.ncl.ac.uk/) 🇬🇧
-* **15/11/2024:** 💼 Attending [NKIFusion](https://www.nkifusion.co.uk/event/) @ Hilton Hotel, BH2 5EL, Bournemouth 🇬🇧
   
 </summary>
 
+* **15/11/2024:** 💼 Attending [NKIFusion](https://www.nkifusion.co.uk/event/) @ Hilton Hotel, BH2 5EL, Bournemouth 🇬🇧
 * **10/11/2024:** 🛠️ Back to 🌟[bulk-translate](https://github.com/nicolay-r/bulk-translate) no-strings core for exploiting 3rd party translating API.
 * **08/11/2024:** 🎤 Seminar talk on Implicit IR with GenAI @ [Bournemouth University](https://www.bournemouth.ac.uk/) 🇬🇧
 * **30/10/2024:** 🎤 Speaker at [BFX-2024 Festival](https://www.bfxfestival.com/) @ Bourmemouth University, Talbot Campus 🇬🇧
