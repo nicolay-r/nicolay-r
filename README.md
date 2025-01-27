@@ -8,7 +8,7 @@
 [![Youtube badge](https://img.shields.io/badge/-Youtube-Cc4c4c?style=flat-square&logo=Youtube&logoColor=white&link=https://twitter.com/nicolayr_)](https://www.youtube.com/@nicolay-r/videos)
 [![PyPI](https://img.shields.io/badge/pypi-nicolay_r-ccffca.svg?style=flat-square)](https://pypi.org/user/nicolay-r/)
 
-⭐[nlp-thirdgate](https://github.com/nicolay-r/nlp-thirdgate) hub for third-party NLP components 🔥
+### ⭐[nlp-thirdgate](https://github.com/nicolay-r/nlp-thirdgate) hub for third-party NLP components 🌌
 
 <details>
 <summary>
