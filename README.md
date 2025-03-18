@@ -21,7 +21,7 @@
 * **18/02/2025:** ✍️ Joining the reviewer PC @ [CIKM-2025](https://lod2025.icas.events/) 🇰🇷
 * **05/03/2025:** 🎤 Repeat the talk on [Implicit IR](https://youtu.be/nXClX7EDYbE) with GenAI @ [Newcastle University](https://www.ncl.ac.uk/) 🇬🇧
 * **28/02/2025:** ✍️ Joining the reviewer PC @ [LOD-2025](https://lod2025.icas.events/) 🇮🇹
-* **24/02/2025:** Taking part of the PC @ [FETC-2025](https://science.fpt.edu.vn/FETC/cfp) 🇻🇳
+* **24/02/2025:** ✍️ Taking part of the PC @ [FETC-2025](https://science.fpt.edu.vn/FETC/cfp) 🇻🇳
   
 </summary>
 
