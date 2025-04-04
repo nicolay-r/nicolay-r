@@ -9,7 +9,7 @@
 [![PyPI](https://img.shields.io/badge/pypi-nicolay_r-ccffca.svg?style=flat-square)](https://pypi.org/user/nicolay-r/)
 
 <p align="center">
-  <a href="https://github.com/nicolay-r/nlp-thirdgate?tab=readme-ov-file#llm">🌌 <b>nlp-thirdgate</b> -- third-party providers hosting ↗️</a>
+  <a href="https://github.com/nicolay-r/nlp-thirdgate">🌌 <b>nlp-thirdgate</b> -- third-party providers hosting ↗️</a>
 </p>
 
 <details>
