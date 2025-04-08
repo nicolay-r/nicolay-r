@@ -17,14 +17,15 @@
 
 ### The most recent
 
+* **08/04/2025:** 🎥 The video recording from the [NLPSummit2025 is available on Youtube](https://www.youtube.com/watch?v=RBXbAfsRbw4&ab_channel=JohnSnowLabs) 🇺🇸
 * **05/04/2025:** ✍️ Accepting the review on Sentiement Analysis submission at [PeerJ](https://peerj.com/)
 * **05/04/2025:** ✍️ Review the submission at [ACM-TiiS](https://dl.acm.org/journal/tiis)
 * **18/03/2025:** 🎓 Completing [IEEE CertifAIEd™ Assessor Training](https://credential.standards.ieee.org/8f7a2f60-c8c5-4796-9ce2-4d3561b89fba) 🇺🇸
 * **18/03/2025:** ✍️ Joining the reviewer PC @ [CIKM-2025](https://lod2025.icas.events/) 🇰🇷
-* **05/03/2025:** 🎤 Repeat the talk on [Implicit IR](https://youtu.be/nXClX7EDYbE) with GenAI @ [Newcastle University](https://www.ncl.ac.uk/) 🇬🇧
   
 </summary>
 
+* **05/03/2025:** 🎤 Repeat the talk on [Implicit IR](https://youtu.be/nXClX7EDYbE) with GenAI @ [Newcastle University](https://www.ncl.ac.uk/) 🇬🇧
 * **28/02/2025:** ✍️ Joining the reviewer PC @ [LOD-2025](https://lod2025.icas.events/) 🇮🇹
 * **24/02/2025:** ✍️ Taking part of the PC @ [FETC-2025](https://science.fpt.edu.vn/FETC/cfp) 🇻🇳
 * **12/02/2025:** ✍️ Joining the reviewer PC @ [AIST-2025](https://aistconf.org/)
