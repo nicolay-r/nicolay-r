@@ -75,5 +75,6 @@ https://ods.ai/events/df2024-31-may-online) [online/youtube](https://www.youtube
 * **11/03/2023:** 🎤 Giving a [seminar](https://nicolay-r.github.io/website/data/lecture_newcastle_11-03-2023.pdf) @ [Newcastle University](https://www.ncl.ac.uk/) in the UK 🎤
 * **10/02/2023:** 🎤 Giving a [seminar](https://www.wolfson.ox.ac.uk/event/xml-research-seminar-advances-sentiment-analysis-large-mass-media-documents) @ [Oxford Wolfson College](https://www.wolfson.ox.ac.uk/) in the UK 🎤
 * **04/12/2022:** *Research Fellow* in NLP / IR @ [Newcastle University](https://www.ncl.ac.uk/) in the UK 💼
+* **28/04/2022:** 🎓 [PhD thesis defence](https://nicolayr.com/#phd-thesis)
 
 </details>
