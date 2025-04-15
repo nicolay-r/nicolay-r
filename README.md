@@ -72,8 +72,9 @@ https://ods.ai/events/df2024-31-may-online) [online/youtube](https://www.youtube
 * **17/10/2023:** ✍️ Joining the reviewer PC @ [CHIIR-2024](https://chiir2024.github.io/)
 * **19/03/2023:** 🗒️ Our systems [#1](https://aclanthology.org/2023.semeval-1.36/) and [#2](https://aclanthology.org/2023.semeval-1.178/) accepted @ [SemEval-2023](https://semeval.github.io/SemEval2023/) 🥳
 * **02/04/2023:** ✍️ Joining the reviewer PC @ [CIKM-2023](https://uobevents.eventsair.com/cikm2023//) ✍️
-* **11/03/2023:** 🎤 Giving a [seminar](https://nicolay-r.github.io/website/data/lecture_newcastle_11-03-2023.pdf) @ [Newcastle University](https://www.ncl.ac.uk/) in the UK 🎤
-* **10/02/2023:** 🎤 Giving a [seminar](https://www.wolfson.ox.ac.uk/event/xml-research-seminar-advances-sentiment-analysis-large-mass-media-documents) @ [Oxford Wolfson College](https://www.wolfson.ox.ac.uk/) in the UK 🎤
+* **11/03/2023:** 🎤 Giving a [seminar](https://nicolay-r.github.io/website/data/lecture_newcastle_11-03-2023.pdf) @ [Newcastle University](https://www.ncl.ac.uk/) 🇬🇧
+* **10/02/2023:** 🎤 Giving a [seminar](https://www.wolfson.ox.ac.uk/event/xml-research-seminar-advances-sentiment-analysis-large-mass-media-documents) @ [Oxford Wolfson College](https://www.wolfson.ox.ac.uk/) 🇬🇧
+* **06/12/2022:** 🎤 Giving a [lecture for students](https://nicolayr.com/#newcastle-2022-lecture)](https://nicolayr.com/#newcastle-2022-lecture) @ [Newcastle University](https://www.ncl.ac.uk/) 🇬🇧
 * **04/12/2022:** *Research Fellow* in NLP / IR @ [Newcastle University](https://www.ncl.ac.uk/) in the UK 💼
 * **28/04/2022:** 🎓 [PhD thesis defence](https://nicolayr.com/#phd-thesis)
 
