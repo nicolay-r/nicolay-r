@@ -18,14 +18,15 @@
 
 ### The most recent
 
+* **13/04/2025:** 🗒️ Poster paper on automated marking medical images has been accepted for [CASA-2025](https://casa2025.sciencesconf.org/resource/page/id/5) 🇫🇷
 * **13/04/2025:** 🏃‍♂️ Attending the Bolton Community 10K [results](https://www.sportstimingsolutions.co.uk/rd.php?id=554) 🇬🇧
 * **11/04/2025:** ✍️ Taking part of the PC @ [HealTAC-2025](https://healtac2025.github.io/) 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 * **10/04/2025:** 🗒️ Our [RuOpinionNE-2024 studies has](https://github.com/dialogue-evaluation/RuOpinionNE-2024) become accepted and available @ [ArXiV](https://arxiv.org/abs/2504.06947)
 * **08/04/2025:** 🎥 The video recording from the [NLPSummit2025 is available on Youtube](https://www.youtube.com/watch?v=RBXbAfsRbw4&ab_channel=JohnSnowLabs) 🇺🇸
-* **05/04/2025:** ✍️ Accepting the review on Sentiement Analysis submission at [PeerJ](https://peerj.com/)
 
 </summary>
 
+* **05/04/2025:** ✍️ Accepting the review on Sentiement Analysis submission at [PeerJ](https://peerj.com/)
 * **05/04/2025:** ✍️ Review the submission at [ACM-TiiS](https://dl.acm.org/journal/tiis)
 * **18/03/2025:** 🎓 Completing [IEEE CertifAIEd™ Assessor Training](https://credential.standards.ieee.org/8f7a2f60-c8c5-4796-9ce2-4d3561b89fba) 🇺🇸
 * **18/03/2025:** ✍️ Joining the reviewer PC @ [CIKM-2025](https://lod2025.icas.events/) 🇰🇷
