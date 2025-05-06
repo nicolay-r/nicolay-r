@@ -18,7 +18,7 @@
 
 ### The most recent
 
-* **06/05/2025:** 🗒️ Poster paper on automated marking medical images has been accepted for [CASA-2025](https://casa2025.sciencesconf.org/resource/page/id/5) 🇫🇷
+* **06/05/2025:** 🗒️ Poster paper on automated marking med reports has been accepted for [CASA-2025](https://casa2025.sciencesconf.org/resource/page/id/5) 🇫🇷
 * **13/04/2025:** 🏃‍♂️ Attending the Bolton Community 10K [results](https://www.sportstimingsolutions.co.uk/rd.php?id=554) 🇬🇧
 * **11/04/2025:** ✍️ Taking part of the PC @ [HealTAC-2025](https://healtac2025.github.io/) 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 * **10/04/2025:** 🗒️ Our [RuOpinionNE-2024 studies has](https://github.com/dialogue-evaluation/RuOpinionNE-2024) become accepted and available @ [ArXiV](https://arxiv.org/abs/2504.06947)
