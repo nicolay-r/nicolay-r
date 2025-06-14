@@ -43,6 +43,13 @@
 * **18/01/2025:** Releasing a hub for NLP providers @ ⭐[nlp-thirdgate](https://github.com/nicolay-r/nlp-thirdgate)
 * **15/01/2025:** 🎤 Joining to the speakers list @ [⚕️NLP Healthcare Summit 2025](https://www.nlpsummit.org/healthcare-2025/)
 * **13/01/2025:** Our ⚕️ dialogue summarization studies and 🌟[MEDF system](https://github.com/Xiaoxiao-Liu/distill-d2n.git) are @ [IEEE-BIBM 2024](https://ieeexplore.ieee.org/document/10822640) 
+
+<details>
+<summary>
+
+### 2024
+</summary>
+
 * **17/12/2024:** ✍️ Accepted for reviewing emotion recognition studies at @ [ACM TiiS](https://dl.acm.org/journal/tiis)
 * **29/11/2024:** 🎤 Seminar talk on Implicit IR with GenAI @ [Newcastle University](https://www.ncl.ac.uk/) 🇬🇧
 * **15/11/2024:** 💼 Attending [NKIFusion](https://www.nkifusion.co.uk/event/) @ Hilton Hotel, BH2 5EL, Bournemouth 🇬🇧
@@ -75,6 +82,14 @@ https://ods.ai/events/df2024-31-may-online) [online/youtube](https://www.youtube
 * **13/02/2024:** ✍️ Joining the reviewer PC @ [TextGraphs-17](https://sites.google.com/view/textgraphs2024) as a part of [ACL-2024](https://2024.aclweb.org/) 
 * **23/01/2024:** ✍️ Joining the reviewer PC @ [AINL-2024](https://ainlconf.ru/) 
 * **19/01/2024:** ✍️ Joining [**distingushed reviewers** list](https://dl.acm.org/journal/tiis/editorial-board#distinguished-reviewers) @ [ACM TiiS](https://dl.acm.org/journal/tiis) 🥳
+
+</details>
+<details>
+<summary>
+
+### 2023
+</summary>
+
 * **17/10/2023:** ✍️ Joining the reviewer PC @ [CHIIR-2024](https://chiir2024.github.io/)
 * **19/03/2023:** 🗒️ Our systems [#1](https://aclanthology.org/2023.semeval-1.36/) and [#2](https://aclanthology.org/2023.semeval-1.178/) accepted @ [SemEval-2023](https://semeval.github.io/SemEval2023/) 🥳
 * **02/04/2023:** ✍️ Joining the reviewer PC @ [CIKM-2023](https://uobevents.eventsair.com/cikm2023//) ✍️
@@ -85,4 +100,5 @@ https://ods.ai/events/df2024-31-may-online) [online/youtube](https://www.youtube
 * **04/12/2022:** *Research Fellow* in NLP / IR @ [Newcastle University](https://www.ncl.ac.uk/) in the UK 💼
 * **28/04/2022:** 🎓 [PhD thesis defence](https://nicolayr.com/#phd-thesis)
 
+</details>
 </details>
