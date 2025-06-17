@@ -18,15 +18,16 @@
 
 ### The most recent
 
+* **17/06/2025:** 💼 Joining the *Senior Program Committee* for [ACM-IUI-2026](https://iui.acm.org/2026/) as **Associate Chair (AC)** ✍️
 * **15/06/2025:** ⭐ Proposing [distil-lm](https://github.com/nicolay-r/distil-tuning-llm)  [MultiClinSum / BioASQ Workshop](https://bioasq.org/) @ [CLEF-2025](https://clef-longeval.github.io/) 
 * **13/06/2025:** 🤗 adding [distil-qwen-2.5-0.5b](https://huggingface.co/nicolay-r/qwen25-05b-multiclinsum-distil) [MultiClinSum / BioASQ Workshop](https://bioasq.org/) @ [CLEF-2025](https://clef-longeval.github.io/) 
 * **14/05/2025:** ⭐ Added [Reasoning-for-Radiology-Report-Evaluation](https://github.com/nicolay-r/Reasoning-for-Radiology-Report-Evaluation) for a poster submission
 * **06/05/2025:** 🗒️ Poster paper on automated marking med reports has been accepted for [CASA-2025](https://casa2025.sciencesconf.org/resource/page/id/5) 🇫🇷
-* **13/04/2025:** 🏃‍♂️ Attending the Bolton Community 10K [results](https://www.sportstimingsolutions.co.uk/rd.php?id=554) 🇬🇧
 
 
 </summary>
 
+* **13/04/2025:** 🏃‍♂️ Attending the Bolton Community 10K [results](https://www.sportstimingsolutions.co.uk/rd.php?id=554) 🇬🇧
 * **11/04/2025:** ✍️ Taking part of the PC @ [HealTAC-2025](https://healtac2025.github.io/) 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 * **10/04/2025:** 🗒️ Our [RuOpinionNE-2024 studies has](https://github.com/dialogue-evaluation/RuOpinionNE-2024) become accepted and available @ [ArXiV](https://arxiv.org/abs/2504.06947)
 * **08/04/2025:** 🎥 The video recording from the [NLPSummit2025 is available on Youtube](https://www.youtube.com/watch?v=RBXbAfsRbw4&ab_channel=JohnSnowLabs) 🇺🇸
