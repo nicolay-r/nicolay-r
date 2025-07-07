@@ -1,13 +1,15 @@
-### Hi I'm Nicolay! 👋
+<div align="center">
 
-* My [personal website](https://nicolay-r.github.io/) at github for more information about me
-* Combine it with track-and-field 🏃‍♂️, ⛷️ and 🌊🏄‍♂️
+### Hi I'm Nicolay! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolay-r/)](https://www.linkedin.com/in/nicolay-rusnachenko-b98635193/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/nicolayr_)](https://twitter.com/nicolayr_)
 [![Bluesky Badge](https://img.shields.io/badge/-Bluesky-4a4aff?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/nicolayr_)](https://bsky.app/profile/nicolayr.com)
 [![Youtube badge](https://img.shields.io/badge/-Youtube-Cc4c4c?style=flat-square&logo=Youtube&logoColor=white&link=https://twitter.com/nicolayr_)](https://www.youtube.com/@nicolay-r/videos)
 [![PyPI](https://img.shields.io/badge/pypi-nicolay_r-ccffca.svg?style=flat-square)](https://pypi.org/user/nicolay-r/)
+
+</div>
+
 
 <p align="center">
   <a href="https://github.com/nicolay-r/nlp-thirdgate">🌌 <b>nlp-thirdgate</b> -- third-party providers hosting ↗️</a>
