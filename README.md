@@ -20,19 +20,20 @@
 
 ### The most recent
 
-* **13/07/2025:** Added [video on LLM distillation fine-tuning for clinical reports summarization](https://youtu.be/uOAiUvLghuE)
+* **27/07/2025:** 🎬 Added [The Ultimate Guide to Actions After an ATAS Refusal](https://youtu.be/bfknM3n-SHs)
+* **13/07/2025:** 🎬 Added [How to Summarize Clinical Case Reports with Small LLMs](https://youtu.be/uOAiUvLghuE)
 * **17/06/2025:** 💼 Joining the *Senior Program Committee* for [ACM-IUI-2026](https://iui.acm.org/2026/) as **Associate Chair (AC)** ✍️
 * **15/06/2025:** ⭐ Proposing [distil-lm](https://github.com/nicolay-r/distil-tuning-llm)  [MultiClinSum / BioASQ Workshop](https://bioasq.org/) @ [CLEF-2025](https://clef-longeval.github.io/) 
-* **13/06/2025:** 🤗 adding [distil-qwen-2.5-0.5b](https://huggingface.co/nicolay-r/qwen25-05b-multiclinsum-distil) [MultiClinSum / BioASQ Workshop](https://bioasq.org/) @ [CLEF-2025](https://clef-longeval.github.io/) 
-* **14/05/2025:** ⭐ Added [Reasoning-for-Radiology-Report-Evaluation](https://github.com/nicolay-r/Reasoning-for-Radiology-Report-Evaluation) for a poster submission
+* **13/06/2025:** 🤗 adding [distil-qwen-2.5-0.5b](https://huggingface.co/nicolay-r/qwen25-05b-multiclinsum-distil) [MultiClinSum / BioASQ Workshop](https://bioasq.org/) @ [CLEF-2025](https://clef-longeval.github.io/)
 
 </summary>
 
+* **14/05/2025:** ⭐ Added [Reasoning-for-Radiology-Report-Evaluation](https://github.com/nicolay-r/Reasoning-for-Radiology-Report-Evaluation) for a poster submission
 * **06/05/2025:** 🗒️ Poster paper on automated marking med reports has been accepted for [CASA-2025](https://casa2025.sciencesconf.org/resource/page/id/5) 🇫🇷
 * **13/04/2025:** 🏃‍♂️ Attending the Bolton Community 10K [results](https://www.sportstimingsolutions.co.uk/rd.php?id=554) 🇬🇧
 * **11/04/2025:** ✍️ Taking part of the PC @ [HealTAC-2025](https://healtac2025.github.io/) 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 * **10/04/2025:** 🗒️ Our [RuOpinionNE-2024 studies has](https://github.com/dialogue-evaluation/RuOpinionNE-2024) become accepted and available @ [ArXiV](https://arxiv.org/abs/2504.06947)
-* **08/04/2025:** 🎥 The video recording from the [NLPSummit2025 is available on Youtube](https://www.youtube.com/watch?v=RBXbAfsRbw4&ab_channel=JohnSnowLabs) 🇺🇸
+* **08/04/2025:** 🎬 The video recording from the [NLPSummit2025 is available on Youtube](https://www.youtube.com/watch?v=RBXbAfsRbw4&ab_channel=JohnSnowLabs) 🇺🇸
 * **05/04/2025:** ✍️ Accepting the review on Sentiment Analysis submission at [PeerJ](https://peerj.com/)
 * **05/04/2025:** ✍️ Review the submission at [ACM-TiiS](https://dl.acm.org/journal/tiis)
 * **18/03/2025:** 🎓 Completing [IEEE CertifAIEd™ Assessor Training](https://credential.standards.ieee.org/8f7a2f60-c8c5-4796-9ce2-4d3561b89fba) 🇺🇸
@@ -60,10 +61,10 @@
 * **08/11/2024:** 🎤 Seminar talk on Implicit IR with GenAI @ [Bournemouth University](https://www.bournemouth.ac.uk/) 🇬🇧
 * **30/10/2024:** 🎤 Speaker at [BFX-2024 Festival](https://www.bfxfestival.com/) @ Bourmemouth University, Talbot Campus 🇬🇧
 * **16/10/2024:** 💼 Joining the *Senior Program Committee* for [ACM-IUI-2025](https://iui.acm.org/2025/) as **Associate Chair (AC)** ✍️
-* **28/09/2024:** 📹 Releasing [YouTube video](https://youtu.be/UQQsXfZyjjc) on [charters personalities extraction 📚](https://github.com/nicolay-r/deep-book-processing) framework.
+* **28/09/2024:** 🎬 Added [YouTube video](https://youtu.be/UQQsXfZyjjc) on [charters personalities extraction 📚](https://github.com/nicolay-r/deep-book-processing) framework.
 * **27/09/2024:** 🛠️ Back to 🌟[bulk-ner framework](https://github.com/nicolay-r/bulk-ner) for developing no-strings core with third NER models.
 * **16/09/2024:** 🛠️ Back to 🌟[bulk-chain framework](https://github.com/nicolay-r/bulk-chain) for stable LLMs inference over databases.
-* **09/09/2024:** 📹 Releasing [YouTube video](https://www.youtube.com/watch?v=vRVDQa7vfkU) on CoT-based Emotion Extraction with LLM, based on [THOR-ECAC](https://aclanthology.org/2024.semeval-1.4/) framework.
+* **09/09/2024:** 🎬 Added [YouTube video](https://www.youtube.com/watch?v=vRVDQa7vfkU) on CoT-based Emotion Extraction with LLM, based on [THOR-ECAC](https://aclanthology.org/2024.semeval-1.4/) framework.
 * **29/08/2024:** 📊 Initializing [RuOpinionNE-2024](https://github.com/dialogue-evaluation/RuOpinionNE-2024) competion page by joining [@dialogue-evaluation](https://github.com/dialogue-evaluation).
 * **02/08/2024:** ✍️ Joining the reviewer PC @ [AIST-2024](https://aistconf.org/) ✍️
 * **24/07/2024:** 🎤 Presenting [LLM reasoning advances 🧠 in author-related IR / Sentiment Analysis](https://github.com/nicolay-r/RuSentNE-LLM-Benchmark) @ [NLPSummit-2024](https://www.nlpsummit.org/nlp-summit-2024/)
