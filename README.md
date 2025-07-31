@@ -20,6 +20,7 @@
 
 ### The most recent
 
+* **29/07/2025:** 🎓 Becoming a [Lead Assessor at IEEE CertifAIEd™](https://credential.standards.ieee.org/8b80a798-635c-4076-b2f2-c571ea3b8624#acc.6p1OE0J9) 🇺🇸
 * **27/07/2025:** 🎬 Added [The Ultimate Guide to Actions After an ATAS Refusal](https://youtu.be/bfknM3n-SHs)
 * **13/07/2025:** 🎬 Added [How to Summarize Clinical Case Reports with Small LLMs](https://youtu.be/uOAiUvLghuE)
 * **17/06/2025:** 💼 Joining the *Senior Program Committee* for [ACM-IUI-2026](https://iui.acm.org/2026/) as **Associate Chair (AC)** ✍️
