@@ -20,17 +20,17 @@
 
 ### The most recent
 
+* **29/09/2025:** 💼 Joining the *Senior Program Committee* for [ACM-IUI-2026](https://iui.acm.org/2026/) as **Associate Chair (AC)** ✍️
 * **23/09/2025:** 🎤 Attending [Manchester Health Series 2025](https://hrc-surgical.nihr.ac.uk/event/manchester-health-series-2025-2026/) 🇬🇧
 * **07/09/2025:** 🗒️ Poster created for CLEF-2025 conference paper [poster](https://github.com/nicolay-r/distil-tuning-llm/blob/master/poster-bioasq2025.pdf) 🇪🇸
 * **19/08/2025:** 🎬 Added [Web streaming support video guide](https://youtu.be/XgByPLLsiCI) [twitter](https://x.com/nicolayr_/status/1957751982040469642)
 * **31/07/2025:** 🎽 Joining England Athletics as Competitive Athlete of [Bournemouth AC club](https://www.bournemouthac.co.uk/) 🇬🇧
-* **29/07/2025:** 🎓 Becoming a [Lead Assessor at IEEE CertifAIEd™](https://credential.standards.ieee.org/8b80a798-635c-4076-b2f2-c571ea3b8624#acc.6p1OE0J9) 🇺🇸
 
 </summary>
 
+* **29/07/2025:** 🎓 Becoming a [Lead Assessor at IEEE CertifAIEd™](https://credential.standards.ieee.org/8b80a798-635c-4076-b2f2-c571ea3b8624#acc.6p1OE0J9) 🇺🇸
 * **27/07/2025:** 🎬 Added [The Ultimate Guide to Actions After an ATAS Refusal](https://youtu.be/bfknM3n-SHs) / [twitter](https://x.com/nicolayr_/status/1949198492280279298)
 * **13/07/2025:** 🎬 Added [How to Summarize Clinical Case Reports with Small LLMs](https://youtu.be/uOAiUvLghuE)
-* **17/06/2025:** 💼 Joining the *Senior Program Committee* for [ACM-IUI-2026](https://iui.acm.org/2026/) as **Associate Chair (AC)** ✍️
 * **15/06/2025:** ⭐ Proposing [distil-lm](https://github.com/nicolay-r/distil-tuning-llm)  [MultiClinSum / BioASQ Workshop](https://bioasq.org/) @ [CLEF-2025](https://clef-longeval.github.io/) 
 * **13/06/2025:** 🤗 adding [distil-qwen-2.5-0.5b](https://huggingface.co/nicolay-r/qwen25-05b-multiclinsum-distil) [MultiClinSum / BioASQ Workshop](https://bioasq.org/) @ [CLEF-2025](https://clef-longeval.github.io/)
 * **14/05/2025:** ⭐ Added [Reasoning-for-Radiology-Report-Evaluation](https://github.com/nicolay-r/Reasoning-for-Radiology-Report-Evaluation) for a poster submission
