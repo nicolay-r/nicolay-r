@@ -47,7 +47,7 @@
 * **28/02/2025:** ✍️ Joining the reviewer PC @ [LOD-2025](https://lod2025.icas.events/) 🇮🇹
 * **24/02/2025:** ✍️ Taking part of the PC @ [FETC-2025](https://science.fpt.edu.vn/FETC/cfp) 🇻🇳
 * **12/02/2025:** ✍️ Joining the reviewer PC @ [AIST-2025](https://aistconf.org/)
-* **05/02/2025:** Wrapping up [RuOpinionNE-2024](https://github.com/dialogue-evaluation/RuOpinionNE-2024) competition [[🔍 LLM-findings]](https://huggingface.co/posts/nicolay-r/887755882993305)
+* **05/02/2025:** Wrapping up [RuOpinionNE-2024](https://github.com/dialogue-evaluation/RuOpinionNE-2024) competition [🔍 LLM-findings](https://huggingface.co/posts/nicolay-r/887755882993305)
 * **21/01/2025:** 📊 Research statistic is now available at [Web-of-Science](https://www.webofscience.com/wos/author/record/MCI-7645-2025)
 * **18/01/2025:** Releasing a hub for NLP providers @ ⭐[nlp-thirdgate](https://github.com/nicolay-r/nlp-thirdgate)
 * **15/01/2025:** 🎤 Joining to the speakers list @ [⚕️NLP Healthcare Summit 2025](https://www.nlpsummit.org/healthcare-2025/)
