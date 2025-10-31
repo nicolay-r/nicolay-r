@@ -20,14 +20,16 @@
 
 ### The most recent
 
+* **25/10/2025:** 🏃‍♂️ On the news @ [BAC team look to make a splash at Round the Lakes](http://bournemouthac.co.uk/bac-team-look-to-make-a-splash-at-round-the-lakes/) 🇬🇧
+* **24/10/2025:** 🏃‍♂️ On the news @ [BAC bring five teams to Southern Road Relays](https://www.bournemouthac.co.uk/bac-bring-five-teams-to-southern-road-relays/) 🇬🇧
 * **16/10/2025:** 🎤 Head to Delivering the [NHS 10-Year Plan with AI & Data](https://www.scc.com/events/delivering-the-nhs-10-year-plan-with-ai-data/) in Birmingham 🇬🇧  ✍️
 * **29/09/2025:** 💼 Joining the *Senior Program Committee* for [ACM-IUI-2026](https://iui.acm.org/2026/) as **Associate Chair (AC)** ✍️
 * **23/09/2025:** 🎤 Attending [Manchester Health Series 2025](https://hrc-surgical.nihr.ac.uk/event/manchester-health-series-2025-2026/) 🇬🇧
-* **07/09/2025:** 🗒️ Poster created for CLEF-2025 conference paper [poster](https://github.com/nicolay-r/distil-tuning-llm/blob/master/poster-bioasq2025.pdf) 🇪🇸
-* **19/08/2025:** 🎬 Added [Web streaming support video guide](https://youtu.be/XgByPLLsiCI) [twitter](https://x.com/nicolayr_/status/1957751982040469642)
 
 </summary>
 
+* **07/09/2025:** 🗒️ Poster created for CLEF-2025 conference paper [poster](https://github.com/nicolay-r/distil-tuning-llm/blob/master/poster-bioasq2025.pdf) 🇪🇸
+* **19/08/2025:** 🎬 Added [Web streaming support video guide](https://youtu.be/XgByPLLsiCI) [twitter](https://x.com/nicolayr_/status/1957751982040469642)
 * **31/07/2025:** 🎽 Joining England Athletics as Competitive Athlete of [Bournemouth AC club](https://www.bournemouthac.co.uk/) 🇬🇧
 * **29/07/2025:** 🎓 Becoming a [Lead Assessor at IEEE CertifAIEd™](https://credential.standards.ieee.org/8b80a798-635c-4076-b2f2-c571ea3b8624#acc.6p1OE0J9) 🇺🇸
 * **27/07/2025:** 🎬 Added [The Ultimate Guide to Actions After an ATAS Refusal](https://youtu.be/bfknM3n-SHs) / [twitter](https://x.com/nicolayr_/status/1949198492280279298)
