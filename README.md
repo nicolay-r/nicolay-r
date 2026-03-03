@@ -20,14 +20,17 @@
 
 ### The most recent
 
+* **03/07/2026:** ✍️ Reviewer at [AIST-2026](https://aistconf.org/)
+* **01/04/2026:** ✍️ Reviewer at [HealTAC-2026](https://healtac2026.github.io/)
+* **03/03/2026:** 🧑‍💻 Attending [SemEval-2026-Task-3](https://github.com/DimABSA/DimABSA2026) with submissions: [TongWu](https://github.com/tongwu17/SemEval-2026-Task3-Track-A) / [Harshal](https://github.com/harshalDharpure/SemEval-2026-Task3-VA-BERT)
 * **29/01/2026:** 🎤 Head to the [National HealthTech Series (Southampton)](https://hrc-surgical.nihr.ac.uk/event/national-healthtech-series-southampton/) 🇬🇧
 * **01/01/2026:** ✍️ Technical Reviewer @ [ICNLP2026](https://www.icnlp.net/) 🇨🇳
+  
+</summary>
+
 * **15/12/2025:** 🎤 Speaker at [Research Colloquium](https://www.tu-chemnitz.de/hsw/pva/lehre/foko/foko.html.en) on time-effective LLM usage in IR @ [Technische Universität Chemnitz](https://www.tu-chemnitz.de/index.html.en) 🇩🇪
 * **28/11/2025:** 🎤 Speak on Sentiment Analysis from scratch @ [Newcastle University](https://www.ncl.ac.uk/) 🇬🇧
 * **25/10/2025:** 🏃‍♂️ On the news @ [BAC team look to make a splash at Round the Lakes](http://bournemouthac.co.uk/bac-team-look-to-make-a-splash-at-round-the-lakes/) 🇬🇧
-
-</summary>
-
 * **24/10/2025:** 🏃‍♂️ On the news @ [BAC bring five teams to Southern Road Relays](https://www.bournemouthac.co.uk/bac-bring-five-teams-to-southern-road-relays/) 🇬🇧
 * **16/10/2025:** 🎤 Head to Delivering the [NHS 10-Year Plan with AI & Data](https://www.scc.com/events/delivering-the-nhs-10-year-plan-with-ai-data/) in Birmingham 🇬🇧  ✍️
 * **29/09/2025:** 💼 Joining the *Senior Program Committee* for [ACM-IUI-2026](https://iui.acm.org/2026/) as **Associate Chair (AC)** ✍️
